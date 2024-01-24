@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/digital-business-card/static/css/main.8c5506bb.css",
+    "main.js": "/digital-business-card/static/js/main.0e502f1b.js",
+    "static/media/dhru.jpg": "/digital-business-card/static/media/dhru.bcb5bcd46b60be33538b.jpg",
+    "index.html": "/digital-business-card/index.html",
+    "main.8c5506bb.css.map": "/digital-business-card/static/css/main.8c5506bb.css.map",
+    "main.0e502f1b.js.map": "/digital-business-card/static/js/main.0e502f1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c5506bb.css",
+    "static/js/main.0e502f1b.js"
+  ]
+}
